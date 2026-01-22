@@ -14,8 +14,11 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customise the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Financial stability analysis
+I analysed the financial health of banks, utilising market structure risks and datasets spanning several years.
+This project involves me examining interconnected liquidity, funding and
+macro‑financial indicators to assess vulnerabilities in the UK financial system. 
+The programming languages used were Python and Power BI
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
