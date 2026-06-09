@@ -29,11 +29,8 @@ The programming languages used were Python and Power BI
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organised into key categories:
-
 - **Data Visualisation**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
 - **Data Modelling**: Power Query, DAX, Star Schema Design, etc.
 
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
