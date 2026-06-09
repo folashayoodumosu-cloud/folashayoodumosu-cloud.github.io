@@ -21,10 +21,10 @@ macro‑financial indicators to assess vulnerabilities in the UK financial syste
 The programming languages used were Python and Power BI
 
 ### Absenteeism for HR
-*update.*
+I calculated and provided a list for a healthy bonus initiative for Human Resources. I built a dashboard for greater interpretation.
 
-### Project Title Three
-*update.*
+### Fitness Tracking ML Model
+I built a machine learning model that uses wearable sensor data to recognise gym exercises and automatically count repetitions.
 
 
 ## 🛠️ Skills
